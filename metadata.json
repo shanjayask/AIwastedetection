@@ -1,0 +1,6 @@
+{
+  "name": "AI Waste Classification System",
+  "description": "Intelligent image-based waste classification into Organic, Recyclable, and Non-Recyclable categories using Gemini Vision AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

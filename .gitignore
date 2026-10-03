@@ -1,0 +1,23 @@
+# Environment and secret variables
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+dist-server/
+.vite/
+
+# Operating System files
+.DS_Store
+Thumbs.db
